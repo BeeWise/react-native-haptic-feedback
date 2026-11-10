@@ -42,6 +42,7 @@
     "lib",
     "android",
     "ios",
+    "Package.swift",
     "cpp",
     "app.plugin.js",
     "*.podspec",
