@@ -43,6 +43,7 @@
     "android",
     "ios",
     "Package.swift",
+    "react-native-spm-prefix.h",
     "cpp",
     "app.plugin.js",
     "*.podspec",
